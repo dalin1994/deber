@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Prototipo08
 {
-    class CAuto
+    class CAuto:IPrototipo
     {
         private string modelo;
         private int costo;

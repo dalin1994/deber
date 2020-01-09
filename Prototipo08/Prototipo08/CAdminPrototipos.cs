@@ -15,8 +15,8 @@ namespace Prototipo08
             CPersona persona = new CPersona("Ciudadano", 18);
             prototipos.Add("Persona", persona);
 
-            CValores valores = new CValores(1);
-            prototipos.Add("Valores", valores);
+           // CValores valores = new CValores(1);
+            //prototipos.Add("Valores", valores);
         }
 
         public void AdicionaPrototipo(string pLlave, IPrototipo pPrototipo)

@@ -6,12 +6,15 @@ namespace Prototipo08
 {
     class CPersona:IPrototipo
     {
+        //datos
         private string nombre;
         private int edad;
 
+        //priedadad
         public string Nombre { get=>nombre; set=>nombre=value; }
         
-        public CPersona(string pNombre, int pEdad)
+        //datos internos (constructor)
+        public CPersona(string pNombre, int pEdad)//parametros
         {
             nombre = pNombre;
             edad = pEdad;
@@ -20,6 +23,7 @@ namespace Prototipo08
         {
             return string.Format("{0}, {1}", nombre,edad);
         }
+         //clonacion
         public object Clonar()
         {
             CPersona clon = new CPersona(nombre, edad);
