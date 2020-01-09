@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Source\\Repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj": {}
+    "C:\\Users\\Usuario\\source\\repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Source\\Repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj": {
+    "C:\\Users\\Usuario\\source\\repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Source\\Repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj",
         "projectName": "Prototipo08",
-        "projectPath": "C:\\Users\\Usuario\\Source\\Repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj",
+        "projectPath": "C:\\Users\\Usuario\\source\\repos\\deber\\Prototipo08\\Prototipo08\\Prototipo08.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Source\\Repos\\deber\\Prototipo08\\Prototipo08\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\source\\repos\\deber\\Prototipo08\\Prototipo08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
